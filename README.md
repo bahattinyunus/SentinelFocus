@@ -1,80 +1,106 @@
 <div align="center">
 
-# 🛡️ SentinelFocus
-### **Edge-AI Powered Privacy Shield & Deep Work Hub**
+# 🛡️ SentinelFocus: Deep Work OPS
+### **The Ultimate Edge-AI Surveillance & Privacy Fortress**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Framework: Next.js](https://img.shields.io/badge/Framework-Next.js-000000?logo=next.js)](https://nextjs.org/)
-[![AI Engine: TensorFlow.js](https://img.shields.io/badge/AI_Engine-TensorFlow.js-FF6F00?logo=tensorflow)](https://www.tensorflow.org/js)
-[![Status: Production Ready](https://img.shields.io/badge/Status-Production--Ready-brightgreen.svg)]()
-[![Privacy: 100% Client-Side](https://img.shields.io/badge/Privacy-100%25_Client--Side-blueviolet.svg)]()
+[![Hardware: Edge-Vision](https://img.shields.io/badge/Hardware-Edge--Vision-00D1FF?style=for-the-badge&logo=cpu)](https://github.com/bahattinyunus/SentinelFocus)
+[![Logic: MoveNet_L4](https://img.shields.io/badge/Logic-MoveNet__L4-FF004C?style=for-the-badge&logo=tensorflow)](https://github.com/bahattinyunus/SentinelFocus)
+[![Security: Zero-Cloud](https://img.shields.io/badge/Security-Zero--Cloud-00FF66?style=for-the-badge&logo=shield)](https://github.com/bahattinyunus/SentinelFocus)
+[![Status: Operational](https://img.shields.io/badge/Status-Operational-brightgreen?style=for-the-badge)](https://github.com/bahattinyunus/SentinelFocus)
 
-**SentinelFocus**, çalışma alanınızı akıllı bir dijital kaleye dönüştürür. Tüm görüntü işleme süreçleri **sunucuya gitmeden (Edge-AI)** tamamen cihazınızda gerçekleşir.
+**SentinelFocus** is a high-stakes productivity sentinel that transforms your workspace into a secure digital bunker. No cloud, no lag, just elite Edge-AI performance.
 
-[**🎯 Canlı Demo**](#) | [**🛠️ Mimari**](#-teknik-mimari) | [**🚀 Hızlı Başlangıç**](#-kurulum)
+[**⚡ LAUNCH CONSOLE**](#) | [**�️ PROTOCOLS**](#-level-4-security-protocols) | [**🏗️ ARCHITECTURE**](#-tactical-architecture)
 
 ---
 
 </div>
 
-## 🌌 Vizyon: "Veri Seninledir"
-Günümüzde mahremiyet bir lüks değil, temel bir haktır. SentinelFocus, üretkenliğinizi artırırken kameranızdan gelen tek bir pikselin bile cihazınızdan dışarı çıkmamasını garanti eder. 
+## 🌌 The Sentinel Mission
+In an era of digital surveillance, **Privacy is the only currency**. SentinelFocus guarantees that your vision, your posture, and your focus remain entirely local. Every pixel is processed within the boundaries of your hardware.
 
 ---
 
-## ⚡ Temel Protokoller
+## 🖥️ Command Center Dashboard
 
-### 🛡️ 1. Privacy Shield (Gizlilik Kalkanı)
-**Level-4 Güvenlik:** Arka planda yetkisiz bir kişi algılandığında ekran anında milisaniyeler içinde bulanıklaşır (`Instant Blur`). Hassas veriler meraklı gözlerden korunur.
-
-### 🧘 2. Postür & Ergonomi Takibi
-AI tabanlı iskelet analizi ile omuz ve baş hizanız takip edilir. "Kambur duruş" tespit edildiğinde sistem sizi uyararak uzun vadeli sağlık sorunlarını engeller.
-
-### 📱 3. Phone Detection (Odak Koruyucu)
-Çalışma alanınızda telefon veya tablet tespit edilirse, odak süreniz otomatik olarak duraklatılır ve "Dikkat Dağıtıcı Tespiti" uyarısı verilir.
-
----
-
-## 🏗️ Teknik Mimari
-
-SentinelFocus, düşük gecikme süresi için hibrit bir Edge Computing mimarisi kullanır:
-
-| Modül | Teknoloji | Fonksiyon |
+| 🔍 SENSOR FEED | 🛡️ SECURITY STATUS | 📊 OPS METRICS |
 | :--- | :--- | :--- |
-| **Engine** | `TensorFlow.js` | Edge-AI Inference Hub |
-| **Logic** | `MoveNet / PoseNet` | Real-time Skeleton Tracking |
-| **Vision** | `COCO-SSD` | High-Speed Object Recognition |
-| **Core** | `Next.js 14` | High-Performance UI Layer |
-| **Optimization** | `Web Workers` | Multi-threaded AI Processing |
+| **Active Vision Hub** | **Level-4 Privacy Shield** | **Focus Efficiency: 94%** |
+| Real-time Pose Detection | Unauthorized Personnel: `NONE` | Active Session: `02:42:15` |
+| Object Recognition (Phone) | Kill-Switch: `READY` | Posture Score: `A-Grade` |
 
 ---
 
-## 🚀 Kurulum
+## ⚡ Tactical Architecture (Logic Map)
+
+```mermaid
+graph LR
+    subgraph SENSORY_INPUT
+        A[Camera Stream] --> B[Frame Processor]
+    end
+    
+    subgraph EDGE_AI_ENGINE
+        B --> C{Decision Hub}
+        C -->|Pose Analysis| D[ErgoSentinel]
+        C -->|Object Vector| E[Distraction Hunter]
+        C -->|Identity Bounds| F[Privacy Fortress]
+    end
+    
+    subgraph OPS_RESPONSE
+        D -->|Slouch detected| G[Haptic/Visual Alert]
+        E -->|Phone found| H[Session Auto-Pause]
+        F -->|Breach detected| I[Instant Screen Blur]
+    end
+    
+    style F fill:#00D1FF,stroke:#000,stroke-width:2px
+    style I fill:#FF004C,stroke:#000,stroke-width:4px
+    style G fill:#00FF66,stroke:#000,stroke-width:1px
+```
+
+---
+
+## 🛡️ Level-4 Security Protocols
+
+> [!IMPORTANT]
+> **PROTOCOL 01: THE PRIVACY FORTRESS**
+> If a second face or unrecognized movement is detected behind the operator, the system activates an immediate `40px Backdrop Blur` across all sensitive application windows.
+
+> [!WARNING]
+> **PROTOCOL 02: DISTRACTION KILL-SWITCH**
+> Upon detecting a mobile device (`cell phone`) within the primary focus vector, the session is placed in `STASIS MODE`. All work metrics are frozen until the distraction is neutralized.
+
+---
+
+## �️ Mission Control Setup (Hızlı Kurulum)
 
 ```bash
-# Repoyu klonlayın
-git clone https://github.com/kullaniciadiniz/SentinelFocus.git
+# Clone the Tactical Repo
+git clone https://github.com/bahattinyunus/SentinelFocus.git
 
-# Bağımlılıkları kurun
-npm install
+# Initialize Core Dependencies
+npm install --force
 
-# Geliştirme sunucusunu başlatın
+# Deploy Sentinel Locally
 npm run dev
 ```
 
 ---
 
-## 📈 Yol Haritası (Roadmap)
+## 📈 Roadmap: The Future of Deep Work
 
-- [ ] **Phase 1:** Spotify Entegrasyonu (Odak bozulduğunda müziği yönetme).
-- [ ] **Phase 2:** VS Code Eklentisi (Kod yazma ritmi analizi).
-- [ ] **Phase 3:** Electron.js ile Yerel Masaüstü Uygulaması.
+| Phase | Milestone | Status |
+| :--- | :--- | :--- |
+| **I** | **Next.js Core Vision Engine** | `OPERATIONAL` |
+| **II** | **Spotify/Distraction Sync** | `IN DEVELOPMENT` |
+| **III** | **VS Code Tactical Plug-in** | `PLANNED` |
+| **IV** | **Electron Native Desktop Shell** | `Q1 2026` |
 
 ---
 
 <div align="center">
 
-Developed with ❤️ for the future of Private Deep Work.
-[Contribute](CONTRIBUTING.md) | [Support Us](LICENSE.md)
+### **BECOME THE SENTINEL OF YOUR OWN FOCUS.**
+Developed for the elite thinkers who demand zero distractions and absolute privacy.
+[Contribute to the Codebase](CONTRIBUTING.md) | [Support the Mission](LICENSE.md)
 
 </div>
