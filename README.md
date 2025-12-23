@@ -1,133 +1,133 @@
 <div align="center">
 
-# 🌌 SENTINEL_FOCUS // DEEP_WORK_FORTRESS
-### **[ TERMINAL // LEVEL_4_ACCESS_GRANTED ]**
+# 🌌 SENTINEL_FOCUS // DERİN_ÇALIŞMA_KALESİ
+### **[ TERMİNAL // SEVİYE_4_ERİŞİM_ONAYLANDI ]**
 
 <br/>
 
-![Sentinel Status](https://img.shields.io/badge/SYSTEM-OPERATIONAL-00FF66?style=for-the-badge&logo=statuspage&logoColor=white)
-![AI Core](https://img.shields.io/badge/AI_CORE-TENSORFLOW_JS-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Security](https://img.shields.io/badge/SECURITY-ZERO_TRUST_LOCAL-00D1FF?style=for-the-badge&logo=ssh&logoColor=white)
-![UI Matrix](https://img.shields.io/badge/UI_MATRIX-NEXT_JS_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Sistem Durumu](https://img.shields.io/badge/SİSTEM-OPERASYONEL-00FF66?style=for-the-badge&logo=statuspage&logoColor=white)
+![Yapay Zeka Çekirdeği](https://img.shields.io/badge/YZ_ÇEKİRDEĞİ-TENSORFLOW_JS-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Güvenlik](https://img.shields.io/badge/GÜVENLİK-SIFIR_GÜVEN_LOKAL-00D1FF?style=for-the-badge&logo=ssh&logoColor=white)
+![Arayüz Matrisi](https://img.shields.io/badge/ARAYÜZ_MATRİSİ-NEXT_JS_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 <br/>
 
-**SentinelFocus** is not just a tool; it's a digital guardian. It leverages elite **Edge-AI Vision** to secure your workspace, optimize your posture, and defend your privacy with military-grade precision.
+**SentinelFocus** sadece bir araç değil; bir dijital muhafızdır. Çalışma alanınızı güvence altına almak, duruşunuzu optimize etmek ve gizliliğinizi askeri düzeyde hassasiyetle savunmak için üst düzey **Kenar-YZ Görüntü İşleme** teknolojisini kullanır.
 
 ---
 
-[ **⚡ BOOT CONSOLE** ](#-mission-startup) | [ **🛡️ DEFENSE PROTOCOLS** ](#-security-protocols) | [ **🧠 NEURAL MAP** ](#-neural-signal-path) | [ **🛠️ TECH SPECS** ](#-tactical-specifications)
+[ **⚡ KONSOLU ATEŞLE** ](#-operasyon-başlatma) | [ **🛡️ SAVUNMA PROTOKOLLERİ** ](#-güvenlik-protokolleri) | [ **🧠 NÖRAL HARİTA** ](#-nöral-sinyal-yolu) | [ **🛠️ TEKNİK ÖZELLİKLER** ](#-taktik-spesifikasyonlar)
 
 ---
 
 </div>
 
-## 🌐 THE SYSTEM MANIFESTO
-> "In the vacuum of deep work, focus is the only weapon. Privacy is the only shield." 
+## 🌐 SİSTEM MANİFESTOSU
+> "Derin çalışmanın vakumunda, odak tek silahtır. Gizlilik ise tek kalkan." 
 > 
-> SentinelFocus executes 100% of its neural logic within the boundaries of your local CPU/GPU. **Not a single byte of vision data reaches the cloud.**
+> SentinelFocus, nöral mantığının %100'ünü yerel İşlemci/Grafik İşlemci sınırlarınız dahilinde yürütür. **Görüntü verisinin tek bir baytı bile buluta ulaşmaz.**
 
 ---
 
-## 🖥️ OPS COMMAND CENTER
+## 🖥️ OPS KOMUTA MERKEZİ
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
-│  SENTINEL_DASHBOARD v4.1 // TACTICAL_OVERVIEW            │
+│  SENTINEL_DASHBOARD v4.1 // TAKTİK_GENEL_BAKIŞ           │
 ├──────────────────────────────────────────────────────────┤
-│  [ SCANNER ]  [ ANALYSIS ]  [ SHIELD ]  [ SESSION ]      │
+│  [ TARAYICI ] [ ANALİZ ]  [ KALKAN ]  [ OTURUM ]         │
 │  ───────────  ────────────  ──────────  ───────────      │
-│  LIVE_FEED    60 FPS_SYNC   L4_ACTIVE   02:45:12         │
-│  POSTURE_OK   EYE_SYNC_ON   PEOPLE: 0   EFF: 98.4%       │
+│  CANLI_AKIS   60 FPS_SYNC   L4_AKTİF    02:45:12         │
+│  DURUS_TAMAN  GOZ_SYNC_ACIK KİSİ: 0     VER: %98.4       │
 └──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🧠 NEURAL SIGNAL PATH
+## 🧠 NÖRAL SİNYAL YOLU
 ```mermaid
 graph TD
-    subgraph SENSORY_INPUT [SENSORY INPUT]
-        RAW[Camera Stream] --> NORM[Frame Normalization]
+    subgraph DUYUSAL_GIRIS [DUYUSAL GİRİŞ]
+        RAW[Kamera Akışı] --> NORM[Kare Normalizasyonu]
     end
 
-    subgraph NEURAL_MATRIX [NEURAL CORE]
-        NORM --> POS[MoveNet / Pose Engine]
-        NORM --> OBJ[COCO-SSD / Vector Search]
-        NORM --> FAC[Face-api / Security Hub]
+    subgraph NORAL_MATRIS [NÖRAL ÇEKİRDEK]
+        NORM --> POS[MoveNet / Pose Motoru]
+        NORM --> OBJ[COCO-SSD / Vektör Arama]
+        NORM --> FAC[Face-api / Güvenlik Merkezi]
     end
 
-    subgraph TACTICAL_LOGIC [TACTICAL LOGIC]
-        POS -->|Joint Analysis| ERGO{ErgoCheck}
-        OBJ -->|Class Vector| DIST{Distraction?}
-        FAC -->|Face Count| PRIV{Privacy Breach?}
+    subgraph TAKTIK_MANTIK [TAKTİK MANTIK]
+        POS -->|Eklem Analizi| ERGO{ErgoKontrol}
+        OBJ -->|Sınıf Vektörü| DIST{Dikkat Dağıtıcı?}
+        FAC -->|Yüz Sayımı| PRIV{Gizlilik İhlali?}
     end
 
-    subgraph RESPONSE_OPS [RESPONSE OPS]
-        ERGO -->|Anomalous| A1[Postural Correction]
-        DIST -->|Phone Detected| A2[Ops Freeze]
-        PRIV -->|Unrecognized| A3[Instant Blur Protocol]
+    subgraph OPERASYONEL_YANIT [OPERASYONEL YANIT]
+        ERGO -->|Anomali| A1[Postüral Düzeltme]
+        DIST -->|Telefon Tespit Edildi| A2[Operasyon Dondurma]
+        PRIV -->|Yetkisiz Erişim| A3[Anlık Bulanıklaştırma Protokolü]
     end
 
-    style NEURAL_MATRIX fill:#001529,stroke:#00D1FF,stroke-width:2px,color:#fff
-    style RESPONSE_OPS fill:#1a1a1a,stroke:#FF004C,stroke-width:3px,color:#fff
-    style SENSORY_INPUT fill:#000,stroke:#555,color:#fff
+    style NORAL_MATRIS fill:#001529,stroke:#00D1FF,stroke-width:2px,color:#fff
+    style OPERASYONEL_YANIT fill:#1a1a1a,stroke:#FF004C,stroke-width:3px,color:#fff
+    style DUYUSAL_GIRIS fill:#000,stroke:#555,color:#fff
 ```
 
 ---
 
-## 🔒 SECURITY PROTOCOLS
+## 🔒 GÜVENLİK PROTOKOLLERİ
 
 > [!CAUTION]
-> ### **P-01 // THE CLOAKING DEVICE**
-> When the neural engine detects an unauthorized person or a secondary face in the surveillance vector, it triggers an **instant L4 Backdrop Blur**. Your screen becomes a digital fog until the threat is cleared.
+> ### **P-01 // GİZLEME CİHAZI (THE CLOAKING DEVICE)**
+> Nöral motor, gözetim vektöründe yetkisiz bir kişi veya ikincil bir yüz algıladığında, anında **L4 Arka Plan Bulanıklaştırmasını** tetikler. Tehdit temizlenene kadar ekranınız dijital bir sise dönüşür.
 
 > [!IMPORTANT]
-> ### **D-02 // THE DISTRACTION KILL-SWITCH**
-> Any identified mobile device (`cell_phone`) entering the primary focus cone will immediately HALT the active session. The Sentinel demands absolute focus.
+> ### **D-02 // DİKKAT DAĞITICI İMHA ANAHTARI**
+> Birincil odak hunisine giren herhangi bir tanımlanmış mobil cihaz (`cell_phone`), aktif oturumu anında DURDURUR. Sentinel mutlak odaklanma talep eder.
 
 ---
 
-## 🛠️ TACTICAL SPECIFICATIONS
+## 🛠️ TAKTİK SPESİFİKASYONLAR
 
-| CATEGORY | SPECIFICATION | TOLERANCE |
+| KATEGORİ | ÖZELLİK | TOLERANS |
 | :--- | :--- | :--- |
-| **Edge-AI Engine** | TensorFlow.js v4+ | < 15ms Latency |
-| **Skeletal Frame** | MoveNet Lightning L1 | Dual-Shoulder Vectoring |
-| **Surveillance** | COCO-SSD Production | 0.85 Confidence Threshold |
-| **Interface** | Next.js // Tailwind CSS | 60 FPS Refresh Rate |
-| **Encryption** | Local-Only Storage | AES-256 (Local Stats) |
+| **Kenar-YZ Motoru** | TensorFlow.js v4+ | < 15ms Gecikme |
+| **İskelet Yapısı** | MoveNet Lightning L1 | Çift Omuz Vektörleme |
+| **Gözetim** | COCO-SSD Üretim | 0.85 Güven Eşiği |
+| **Arayüz** | Next.js // Tailwind CSS | 60 FPS Yenileme Hızı |
+| **Şifreleme** | Yerel Depolama | AES-256 (Yerel İstatistikler) |
 
 ---
 
-## 🚀 MISSION STARTUP
+## 🚀 OPERASYON BAŞLATMA (KURULUM)
 
 ```bash
-# 1. CLONE THE FORTRESS
+# 1. KALEYİ KLONLAYIN
 git clone https://github.com/bahattinyunus/SentinelFocus.git
 
-# 2. INITIALIZE ARSENAL
+# 2. CEPHANELİĞİ HAZIRLAYIN
 npm install --production
 
-# 3. FIRE UP THE COMMAND CENTER
+# 3. KOMUTA MERKEZİNİ ATEŞLEYİN
 npm run dev
 ```
 
 ---
 
-## 📈 EVOLUTION MAP
+## 📈 GELİŞİM HARİTASI (ROADMAP)
 
-- [x] **PHASE I:** Core Vision Engine & Privacy Shield
-- [ ] **PHASE II:** Bio-metric Focus Sync (Heart Rate Integration)
-- [ ] **PHASE III:** VS Code Tactical Command Center
-- [ ] **PHASE IV:** Neutral-Link Deep Focus Protocol
+- [x] **FAZ I:** Çekirdek Görüntü İşleme Motoru & Gizlilik Kalkanı
+- [ ] **FAZ II:** Biyo-metrik Odak Senkronizasyonu (Kalp Atış Hızı Entegrasyonu)
+- [ ] **FAZ III:** VS Code Taktik Komuta Merkezi
+- [ ] **FAZ IV:** Nöral-Bağlantı Derin Odak Protokolü
 
 ---
 
 <div align="center">
 
-### **THE WATCHER NEVER SLEEPS.**
-SentinelFocus is the final word in private productivity engineering.
-[JOIN THE RESISTANCE](CONTRIBUTING.md) | [LICENSE_AGREEMENT](LICENSE.md)
+### **MUHAFIZ ASLA UYUMAZ.**
+SentinelFocus, kişisel üretkenlik mühendisliğinde son sözdür.
+[DİRENİŞE KATILIN](CONTRIBUTING.md) | [LİSANS_ANLAŞMASI](LICENSE.md)
 
 </div>
