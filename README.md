@@ -1,106 +1,133 @@
 <div align="center">
 
-# 🛡️ SentinelFocus: Deep Work OPS
-### **The Ultimate Edge-AI Surveillance & Privacy Fortress**
+# 🌌 SENTINEL_FOCUS // DEEP_WORK_FORTRESS
+### **[ TERMINAL // LEVEL_4_ACCESS_GRANTED ]**
 
-[![Hardware: Edge-Vision](https://img.shields.io/badge/Hardware-Edge--Vision-00D1FF?style=for-the-badge&logo=cpu)](https://github.com/bahattinyunus/SentinelFocus)
-[![Logic: MoveNet_L4](https://img.shields.io/badge/Logic-MoveNet__L4-FF004C?style=for-the-badge&logo=tensorflow)](https://github.com/bahattinyunus/SentinelFocus)
-[![Security: Zero-Cloud](https://img.shields.io/badge/Security-Zero--Cloud-00FF66?style=for-the-badge&logo=shield)](https://github.com/bahattinyunus/SentinelFocus)
-[![Status: Operational](https://img.shields.io/badge/Status-Operational-brightgreen?style=for-the-badge)](https://github.com/bahattinyunus/SentinelFocus)
+<br/>
 
-**SentinelFocus** is a high-stakes productivity sentinel that transforms your workspace into a secure digital bunker. No cloud, no lag, just elite Edge-AI performance.
+![Sentinel Status](https://img.shields.io/badge/SYSTEM-OPERATIONAL-00FF66?style=for-the-badge&logo=statuspage&logoColor=white)
+![AI Core](https://img.shields.io/badge/AI_CORE-TENSORFLOW_JS-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Security](https://img.shields.io/badge/SECURITY-ZERO_TRUST_LOCAL-00D1FF?style=for-the-badge&logo=ssh&logoColor=white)
+![UI Matrix](https://img.shields.io/badge/UI_MATRIX-NEXT_JS_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-[**⚡ LAUNCH CONSOLE**](#) | [**�️ PROTOCOLS**](#-level-4-security-protocols) | [**🏗️ ARCHITECTURE**](#-tactical-architecture)
+<br/>
+
+**SentinelFocus** is not just a tool; it's a digital guardian. It leverages elite **Edge-AI Vision** to secure your workspace, optimize your posture, and defend your privacy with military-grade precision.
+
+---
+
+[ **⚡ BOOT CONSOLE** ](#-mission-startup) | [ **🛡️ DEFENSE PROTOCOLS** ](#-security-protocols) | [ **🧠 NEURAL MAP** ](#-neural-signal-path) | [ **🛠️ TECH SPECS** ](#-tactical-specifications)
 
 ---
 
 </div>
 
-## 🌌 The Sentinel Mission
-In an era of digital surveillance, **Privacy is the only currency**. SentinelFocus guarantees that your vision, your posture, and your focus remain entirely local. Every pixel is processed within the boundaries of your hardware.
+## � THE SYSTEM MANIFESTO
+> "In the vacuum of deep work, focus is the only weapon. Privacy is the only shield." 
+> 
+> SentinelFocus executes 100% of its neural logic within the boundaries of your local CPU/GPU. **Not a single byte of vision data reaches the cloud.**
 
 ---
 
-## 🖥️ Command Center Dashboard
+## 🖥️ OPS COMMAND CENTER
 
-| 🔍 SENSOR FEED | 🛡️ SECURITY STATUS | 📊 OPS METRICS |
-| :--- | :--- | :--- |
-| **Active Vision Hub** | **Level-4 Privacy Shield** | **Focus Efficiency: 94%** |
-| Real-time Pose Detection | Unauthorized Personnel: `NONE` | Active Session: `02:42:15` |
-| Object Recognition (Phone) | Kill-Switch: `READY` | Posture Score: `A-Grade` |
-
----
-
-## ⚡ Tactical Architecture (Logic Map)
-
-```mermaid
-graph LR
-    subgraph SENSORY_INPUT
-        A[Camera Stream] --> B[Frame Processor]
-    end
-    
-    subgraph EDGE_AI_ENGINE
-        B --> C{Decision Hub}
-        C -->|Pose Analysis| D[ErgoSentinel]
-        C -->|Object Vector| E[Distraction Hunter]
-        C -->|Identity Bounds| F[Privacy Fortress]
-    end
-    
-    subgraph OPS_RESPONSE
-        D -->|Slouch detected| G[Haptic/Visual Alert]
-        E -->|Phone found| H[Session Auto-Pause]
-        F -->|Breach detected| I[Instant Screen Blur]
-    end
-    
-    style F fill:#00D1FF,stroke:#000,stroke-width:2px
-    style I fill:#FF004C,stroke:#000,stroke-width:4px
-    style G fill:#00FF66,stroke:#000,stroke-width:1px
+```text
+┌──────────────────────────────────────────────────────────┐
+│  SENTINEL_DASHBOARD v4.1 // TACTICAL_OVERVIEW            │
+├──────────────────────────────────────────────────────────┤
+│  [ SCANNER ]  [ ANALYSIS ]  [ SHIELD ]  [ SESSION ]      │
+│  ───────────  ────────────  ──────────  ───────────      │
+│  LIVE_FEED    60 FPS_SYNC   L4_ACTIVE   02:45:12         │
+│  POSTURE_OK   EYE_SYNC_ON   PEOPLE: 0   EFF: 98.4%       │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🛡️ Level-4 Security Protocols
+## 🧠 NEURAL SIGNAL PATH
+```mermaid
+graph TD
+    subgraph SENSORY_INPUT [SENSORY INPUT]
+        RAW[Camera Stream] --> NORM[Frame Normalization]
+    end
 
-> [!IMPORTANT]
-> **PROTOCOL 01: THE PRIVACY FORTRESS**
-> If a second face or unrecognized movement is detected behind the operator, the system activates an immediate `40px Backdrop Blur` across all sensitive application windows.
+    subgraph NEURAL_MATRIX [NEURAL CORE]
+        NORM --> POS[MoveNet / Pose Engine]
+        NORM --> OBJ[COCO-SSD / Vector Search]
+        NORM --> FAC[Face-api / Security Hub]
+    end
 
-> [!WARNING]
-> **PROTOCOL 02: DISTRACTION KILL-SWITCH**
-> Upon detecting a mobile device (`cell phone`) within the primary focus vector, the session is placed in `STASIS MODE`. All work metrics are frozen until the distraction is neutralized.
+    subgraph TACTICAL_LOGIC [TACTICAL LOGIC]
+        POS -->|Joint Analysis| ERGO{ErgoCheck}
+        OBJ -->|Class Vector| DIST{Distraction?}
+        FAC -->|Face Count| PRIV{Privacy Breach?}
+    end
+
+    subgraph RESPONSE_OPS [RESPONSE OPS]
+        ERGO -->|Anomalous| A1[Postural Correction]
+        DIST -->|Phone Detected| A2[Ops Freeze]
+        PRIV -->|Unrecognized| A3[Instant Blur Protocol]
+    end
+
+    style NEURAL_MATRIX fill:#001529,stroke:#00D1FF,stroke-width:2px,color:#fff
+    style RESPONSE_OPS fill:#1a1a1a,stroke:#FF004C,stroke-width:3px,color:#fff
+    style SENSORY_INPUT fill:#000,stroke:#555,color:#fff
+```
 
 ---
 
-## �️ Mission Control Setup (Hızlı Kurulum)
+## � SECURITY PROTOCOLS
+
+> [!CAUTION]
+> ### **P-01 // THE CLOAKING DEVICE**
+> When the neural engine detects an unauthorized person or a secondary face in the surveillance vector, it triggers an **instant L4 Backdrop Blur**. Your screen becomes a digital fog until the threat is cleared.
+
+> [!IMPORTANT]
+> ### **D-02 // THE DISTRACTION KILL-SWITCH**
+> Any identified mobile device (`cell_phone`) entering the primary focus cone will immediately HALT the active session. The Sentinel demands absolute focus.
+
+---
+
+## 🛠️ TACTICAL SPECIFICATIONS
+
+| CATEGORY | SPECIFICATION | TOLERANCE |
+| :--- | :--- | :--- |
+| **Edge-AI Engine** | TensorFlow.js v4+ | < 15ms Latency |
+| **Skeletal Frame** | MoveNet Lightning L1 | Dual-Shoulder Vectoring |
+| **Surveillance** | COCO-SSD Production | 0.85 Confidence Threshold |
+| **Interface** | Next.js // Tailwind CSS | 60 FPS Refresh Rate |
+| **Encryption** | Local-Only Storage | AES-256 (Local Stats) |
+
+---
+
+## 🚀 MISSION STARTUP
 
 ```bash
-# Clone the Tactical Repo
+# 1. CLONE THE FORTRESS
 git clone https://github.com/bahattinyunus/SentinelFocus.git
 
-# Initialize Core Dependencies
-npm install --force
+# 2. INITIALIZE ARSENAL
+npm install --production
 
-# Deploy Sentinel Locally
+# 3. FIRE UP THE COMMAND CENTER
 npm run dev
 ```
 
 ---
 
-## 📈 Roadmap: The Future of Deep Work
+## 📈 EVOLUTION MAP
 
-| Phase | Milestone | Status |
-| :--- | :--- | :--- |
-| **I** | **Next.js Core Vision Engine** | `OPERATIONAL` |
-| **II** | **Spotify/Distraction Sync** | `IN DEVELOPMENT` |
-| **III** | **VS Code Tactical Plug-in** | `PLANNED` |
-| **IV** | **Electron Native Desktop Shell** | `Q1 2026` |
+- [x] **PHASE I:** Core Vision Engine & Privacy Shield
+- [ ] **PHASE II:** Bio-metric Focus Sync (Heart Rate Integration)
+- [ ] **PHASE III:** VS Code Tactical Command Center
+- [ ] **PHASE IV:** Neutral-Link Deep Focus Protocol
 
 ---
 
 <div align="center">
 
-### **BECOME THE SENTINEL OF YOUR OWN FOCUS.**
-Developed for the elite thinkers who demand zero distractions and absolute privacy.
-[Contribute to the Codebase](CONTRIBUTING.md) | [Support the Mission](LICENSE.md)
+### **THE WATCHER NEVER SLEEPS.**
+SentinelFocus is the final word in private productivity engineering.
+[JOIN THE RESISTANCE](CONTRIBUTING.md) | [LICENSE_AGREEMENT](LICENSE.md)
 
 </div>
